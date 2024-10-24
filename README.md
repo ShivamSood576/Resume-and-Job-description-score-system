@@ -81,4 +81,5 @@ Make sure to change them :
 
 ## Contact
 
-For any inquiries or feedback, please reach out to Prashant Singh at prashantsingha96@gmail.com.
+For any inquiries or feedback, please reach out to Shivam Sood at soodshivam576@gmail.com
+
